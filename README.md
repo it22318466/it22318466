@@ -30,6 +30,7 @@
 <a href="https://www.instagram.com/lochaa_kavi?igsh=ejlrcGpvdG5vMnk=&utm_source=ig_contact_invite"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
 <!-- <a href="https://www.threads.com/@lochaa_kavi?invite=0"><img src="https://skillicons.dev/icons?i=threads" height="50"/></a>
 <a href="https://profile.indeed.com/"><img src="https://skillicons.dev/icons?i=indeed" height="50"/></a> -->
+<a href="https://www.tiktok.com/@lochaa761?_r=1&_t=ZS-95MX1cCk4Vp "><img src="https://skillicons.dev/icons?i=tiktok" height="50"/></a>
 <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" height="50"/></a>
 </p>
 
