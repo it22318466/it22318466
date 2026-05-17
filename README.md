@@ -73,7 +73,8 @@
 </p>
 
 ### 🛠️ Additional Tools & Platforms
-<p align="center"> <img src="vscode,visualstudio,idea,pycharm,gitlab,githubactions,wordpress,vite,webpack,netlify,vercel,replit,stackoverflow,discord" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,gitlab,githubactions,wordpress,vite,webpack,netlify,vercel,replit,stackoverflow,discord" />
+ </p>
 
 ---
 
