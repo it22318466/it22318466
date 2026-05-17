@@ -14,7 +14,7 @@
 
 - 🎓 Graduate in **BSc (Hons) Computer Science (Software Engineering) at Kingston University, London, UK - First Class**
 - 🎓 Undergraduate in **BSc (Hons) Information Technology & Software Engineering at SLIIT University, Malabe, LK - 3rd Year**
-- 💻 Passionate about **Software Development, Full-Stack Development, Mobile Apps & Web Development, Web Design, UI/UX Design, Cloud Systems, Freelancing, AI Services, Digital Creator & SEO Services**
+- 💻 Passionate about **Software Development, Full-Stack Development, Mobile Apps & Web Development, Web Design, UI/UX Design,  Cloud Systems, Freelancing, AI Services, Digital Creator & SEO Services**
 - 🚀 9+ Years Freelancing Experience
 - 🤖 Interested in **AI, DevOps, Cloud, Creator, UI/UX & Scalable Systems**
 - 🌱 Currently learning **Advanced AI, DevOps & Cloud Technologies**
