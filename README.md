@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Lochana Kavinda</h1>
 
 <h3 align="center">
-🚀 Software Engineer | Software Developer | Full-Stack Developer | Mobile & Web Developer | UI/UX Designer | Digital Creator | Freelancer from Sri Lanka 🇱🇰
+🚀 Software Engineer | Software Developer | Full-Stack Developer | Mobile & Web Developer | Cloud Computing | UI/UX Designer | Digital Creator | Freelancer from Sri Lanka 🇱🇰
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Software+Developer;Full-Stack+Developer;Spring+Boot+%7C+Flutter+%7C+MERN+Stack+%7C+Laravel;WordPress+Portfolio+Developer;AI+Enthusiast+%7C+Cloud+Learner+%7C+Freelancer;Building+Creative+and+Real-World+Software+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Software+Developer;Full-Stack+Developer;Cloud+Computing;Spring+Boot+%7C+Flutter+%7C+MERN+Stack+%7C+Laravel;WordPress+Portfolio+Developer;AI+Enthusiast+%7C+Cloud+Learner+%7C+Freelancer;Building+Creative+and+Real-World+Software+Solutions" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-- 🎓 Undergraduate in **BSc (Hons) Information Technology & Software Engineering**
-- 💻 Passionate about **Full-Stack Development, Mobile Apps & Cloud Systems**
+- 🎓 Graduate in **BSc (Hons) Computer Science (Software Engineering) at Kingston University, London, UK - First Class**
+- 🎓 Undergraduate in **BSc (Hons) Information Technology & Software Engineering at SLIIT University, Malabe, LK - 3rd Year**
+- 💻 Passionate about **Software Development, Full-Stack Development, Mobile Apps & Web Development, Web Design, UI/UX Design, Cloud Systems, Freelancing, AI Services, Digital Creator & SEO Services**
 - 🚀 9+ Years Freelancing Experience
-- 🤖 Interested in **AI, DevOps, UI/UX & Scalable Systems**
-- 🌱 Currently learning **Advanced DevOps & Cloud Technologies**
+- 🤖 Interested in **AI, DevOps, Cloud, Creator, UI/UX & Scalable Systems**
+- 🌱 Currently learning **Advanced AI, DevOps & Cloud Technologies**
 - 📫 Reach me at: **lochanabandara36@gmail.com**
 
 ---
@@ -25,8 +26,8 @@
 
 <p align="center">
 <a href="https://github.com/it22318466"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
-<a href="https://www.linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-<a href="https://instagram.com"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
+<a href="www.linkedin.com/in/lochana-kavinda-a08260288"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+<a href="[https://instagram.com](https://www.instagram.com/lochaa_kavi?igsh=ejlrcGpvdG5vMnk=&utm_source=ig_contact_invite)"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
 <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" height="50"/></a>
 </p>
 
