@@ -28,6 +28,8 @@
 <a href="https://github.com/it22318466"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
 <a href="https://www.linkedin.com/in/lochana-kavinda-a08260288"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
 <a href="https://www.instagram.com/lochaa_kavi?igsh=ejlrcGpvdG5vMnk=&utm_source=ig_contact_invite"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
+<a href="https://www.threads.com/@lochaa_kavi?invite=0"><img src="https://skillicons.dev/icons?i=threads" height="50"/></a>
+<a href="https://profile.indeed.com/"><img src="https://skillicons.dev/icons?i=indeed" height="50"/></a>
 <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" height="50"/></a>
 </p>
 
