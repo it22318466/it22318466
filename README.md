@@ -28,8 +28,8 @@
 <a href="https://github.com/it22318466"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
 <a href="https://www.linkedin.com/in/lochana-kavinda-a08260288"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
 <a href="https://www.instagram.com/lochaa_kavi?igsh=ejlrcGpvdG5vMnk=&utm_source=ig_contact_invite"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
-<a href="https://www.threads.com/@lochaa_kavi?invite=0"><img src="https://skillicons.dev/icons?i=threads" height="50"/></a>
-<a href="https://profile.indeed.com/"><img src="https://skillicons.dev/icons?i=indeed" height="50"/></a>
+<!-- <a href="https://www.threads.com/@lochaa_kavi?invite=0"><img src="https://skillicons.dev/icons?i=threads" height="50"/></a>
+<a href="https://profile.indeed.com/"><img src="https://skillicons.dev/icons?i=indeed" height="50"/></a> -->
 <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" height="50"/></a>
 </p>
 
@@ -37,39 +37,39 @@
 
 ## 🚀 Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,c,cpp,cs,php,dart,kotlin,swift,rust" />
+<img src="https://skillicons.dev/icons?i=c,c++,c#,java,js,ts,python,cpp,objectivec,cs,php,dart,kotlin,swift,rust" />
 </p>
 
 ### 🌐 Frontend Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,angular,tailwind,bootstrap,html,css,sass" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,angular,tailwind,bootstrap,html,css,sass,materialize" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend Development & Framework
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring,django,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring,django,firebase,dotnet" />
 </p>
 
 ### 📱 Mobile Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,react,androidstudio" />
+<img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,dart,kotlin,ionic,reactnative,android,nativescript" />
 </p>
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps / OS
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,jenkins,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,jenkins,git,github,bash,linux,arduino,ubuntu" />
 </p>
 
 ### 🗄️ Databases
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,oracle,mssql,firebase,xampp,wamp" />
 </p>
 
-### 🎨 Design & Creative Tools
+### 🎨 Design, Testing & Creative Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender,selenium,xd,sketch,postman" />
 </p>
 
 ---
