@@ -39,12 +39,12 @@
 
 ### 👨‍💻 Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,c++,c#,java,js,ts,python,cpp,objectivec,cs,php,dart,kotlin,swift,rust" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,python,php,dart,kotlin,swift,rust" />
 </p>
 
 ### 🌐 Frontend Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,angular,tailwind,bootstrap,html,css,sass,materialize" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,angular,tailwind,bootstrap,html,css,sass" />
 </p>
 
 ### ⚙️ Backend Development & Framework
@@ -54,23 +54,26 @@
 
 ### 📱 Mobile Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,dart,kotlin,ionic,reactnative,android,nativescript" />
+<img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,dart,kotlin,ionic,android" />
 </p>
 
 ### ☁️ Cloud & DevOps / OS
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,jenkins,git,github,bash,linux,arduino,ubuntu" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,jenkins,git,github,bash,linux,arduino" />
 </p>
 
 ### 🗄️ Databases
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,oracle,mssql,firebase,xampp,wamp" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,oracle,firebase" />
 </p>
 
 ### 🎨 Design, Testing & Creative Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender,selenium,xd,sketch,postman" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,selenium,sketch,postman" />
 </p>
+
+### 🛠️ Additional Tools & Platforms
+<p align="center"> <img src="vscode,visualstudio,idea,pycharm,gitlab,githubactions,wordpress,vite,webpack,netlify,vercel,replit,stackoverflow,discord" /> </p>
 
 ---
 
