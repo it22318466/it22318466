@@ -18,11 +18,11 @@
 
 ---
 
-## 🌟 About Me
+🌟 About Me
 
-- 💻 Software Engineer, Full Stack & Web Developer with a First Class BSc (Hons) in Computer Science (Software Engineering) from Kingston University (UK) and hands on experience in web, mobile, app and desktop application development. Skilled in PHP with Laravel, MERN, SpringBoot, WordPress, Portfolio, React.js, Next.js, Dart with Flutter, Nest.js, Express.js, Node.js, Firebase, Supabase, MySQL, SQLlite, Xampp, SQL Server and MongoDB. Experienced in building RESTful APIs, deploying cloud based solutions (AWS, Azure, GCP, Vercel) and applying Agile/Scrum methodologies.
-
-- Proven ability to design scalable, secure and user friendly software systems through freelance and academic projects. Finally I hope to improve my knowledge and develop my software engineering skills and professionalism. Thank You..!
+<div>
+<sub><b> Software Engineer, Full Stack & Web Developer </b> with a <b> First Class BSc (Hons) in Computer Science (Software Engineering) </b> from <b> Kingston University (UK) </b> and hands on experience in <b> Web, Mobile, App & Desktop </b> application development. Skilled in <b> PHP with Laravel, MERN, SpringBoot, WordPress, Portfolio, React.js, Next.js, Dart with Flutter, Nest.js, Express.js, Node.js, Firebase, Supabase, MySQL, SQLlite, Xampp, SQL Server and MongoDB. </b> Experienced in building <b> RESTful APIs, </b> deploying cloud based solutions <b> (AWS, Azure, GCP, Vercel) </b> and applying <b> Agile/Scrum </b> methodologies. Proven ability to design scalable, secure and user friendly software systems through freelance and academic projects. <b> Finally I hope to improve my knowledge and develop my software engineering skills and professionalism. </b>   Thank You..!</sub>
+</div>
 
 <h6> ☁️ Skilled in Cloud & Database Technologies </h6>
 <p align="center">
@@ -61,15 +61,29 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/it22318466"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
-<a href="https://www.linkedin.com/in/lochana-kavinda-a08260288"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
-<a href="https://www.facebook.com/share/1VjfTB2KeV/"><img src="https://skillicons.dev/icons?i=facebook" height="50"/></a>
-<a href="https://www.instagram.com/lochaa_kavi?igsh=ejlrcGpvdG5vMnk=&utm_source=ig_contact_invite"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
-<a href="https://www.threads.com/@lochaa_kavi?invite=0"><img src="https://skillicons.dev/icons?i=threads" height="50"/></a>
-<a href="https://www.tiktok.com/@lochaa761?_r=1&_t=ZS-95MX1cCk4Vp "><img src="https://skillicons.dev/icons?i=tiktok" height="50"/></a>
-<a href="https://profile.indeed.com/"><img src="https://skillicons.dev/icons?i=indeed" height="50"/></a>
-<a href="https://www.fiverr.com/pe/34gwVr"><img src="https://skillicons.dev/icons?i=facebook" height="50"/></a>
-<a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" height="50"/></a>
+  <a href="https://www.linkedin.com/in/lochana-kavinda-a08260288"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>&nbsp;
+  <a href="https://github.com/it22318466"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>&nbsp;
+  <a href="https://www.instagram.com/lochaa_kavi"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>&nbsp;
+  <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" height="50"/></a>
+</p>
+
+<p align="center">
+  <!-- Facebook (shields.io - always works on GitHub) -->
+  <a href="https://www.facebook.com/share/1VjfTB2KeV/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35"/>
+  </a>
+  <a href="https://www.threads.com/@lochaa_kavi">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" height="35"/>
+  </a>&nbsp;
+  <a href="https://www.fiverr.com/pe/34gwVr">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="35"/>
+  </a>&nbsp;
+  <a href="https://www.tiktok.com/@lochaa761">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="35"/>
+  </a>&nbsp;
+  <a href="https://profile.indeed.com/">
+    <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" height="35"/>
+  </a>
 </p>
 
 ---
@@ -177,6 +191,28 @@
 </a>
 </p>
 
+<div align="center">
+
+## 🤔
+
+</div>
+
+<p align="center">
+  <b>💻 Software Engineer · Full Stack Developer · Mobile & Web Developer </b><br/>
+  <sub>🎓 First Class BSc (Hons) Computer Science (Software Engineering) - Kingston University · London · UK </sub><br/>
+  <sub>🎓 Undergraduate in BSc (Hons) Information Technology & Software Engineering at SLIIT University · Malabe · LK </sub>
+</p>
+
+<p align="center">
+<sub>Experienced in building scalable, secure & user-friendly software systems across Web, Mobile App & Desktop platforms. </sub> <br/><br/>
+<b>🛠️ Tech Stack</b><br/>
+<sub> PHP · Laravel · MERN · Spring Boot · WordPress · React.js · Next.js · Nest.js · Node.js · Express.js<br/>
+Flutter (Dart) · Firebase · Supabase · MySQL · SQLite · SQL Server · MongoDB · XAMPP </sub> <br/><br/>
+<b>☁️ Cloud & Methods</b><br/>
+<sub> AWS · Azure · GCP · Vercel · RESTful APIs · Agile · Scrum<br/> </sub> <br/>
+🚀 Passionate about continuous growth in software engineering & professionalism..😏
+</p>
+
 ---
 
-<h6 align="center">✨ [Code + Create + Innovate + Repeat] +@``%+ Thank You for Visiting My Profile..! ✨</h6>
+<h6 align="center">✨ [ Code + Create + Innovate + Repeat ] +@``%+ Thank You for Visiting My Profile...👋 ✨</h6>
