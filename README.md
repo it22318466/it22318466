@@ -170,7 +170,7 @@
 
 ## 📈 My Contribution Graph
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=it22318466&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true&radius=10" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=it22318466&theme=tokyo-night&bg_color=1a1b27&color=56D364&line=56D364&point=38bdae&area=true&area_color=70a5fd&hide_border=true&radius=10" width="95%"/>
 </div>
 
 ---
