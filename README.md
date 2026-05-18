@@ -18,12 +18,12 @@
 
 ---
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/it22318466/it22318466/snake-output/snake-dark.svg"/>
   <img src="https://raw.githubusercontent.com/it22318466/it22318466/snake-output/snake.svg"
     alt="Snake animation"/>
-</picture>
+</picture> -->
 
 🌟 About Me
 
