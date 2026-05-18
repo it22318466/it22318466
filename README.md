@@ -90,42 +90,42 @@
 
 ## 🚀 Tech Stack
 
-### 👨‍💻 Programming Languages
+👨‍💻 Programming Languages
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,ts,python,php,dart,kotlin,swift,rust" />
 </p>
 
-### 🌐 Frontend Development
+🌐 Frontend Development
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,angular,tailwind,bootstrap,html,css,sass" />
 </p>
 
-### ⚙️ Backend Development & Framework
+⚙️ Backend Development & Framework
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring,django,firebase,dotnet" />
 </p>
 
-### 📱 Mobile Development
+📱 Mobile Development
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,dart,kotlin,ionic,android" />
 </p>
 
-### ☁️ Cloud & DevOps / OS
+☁️ Cloud & DevOps / OS
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,jenkins,git,github,bash,linux,arduino" />
 </p>
 
-### 🗄️ Databases
+🗄️ Databases
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,oracle,firebase" />
 </p>
 
-### 🎨 Design, Testing & Creative Tools
+🎨 Design, Testing & Creative Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,selenium,sketch,postman" />
 </p>
 
-### 🛠️ Additional Tools & Platforms
+🛠️ Additional Tools & Platforms
 <p align="center"> <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,gitlab,githubactions,wordpress,vite,webpack,netlify,vercel,replit,stackoverflow,discord" />
  </p>
 
@@ -154,16 +154,12 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🔥 Streak Stats & Analytics
+<div align="center">
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=it22318466&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it22318466&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10"/>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=it22318466&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
@@ -175,11 +171,13 @@
 
 ---
 
-## 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=it22318466&theme=tokyo-night"/>
-</p>
+## 📈 My Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=it22318466&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true&radius=10" width="95%"/>
+
+</div>
 
 ---
 
