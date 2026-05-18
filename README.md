@@ -10,15 +10,51 @@
 
 ---
 
+<h6> 👀 Profile Views </h6>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=it22318466&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
 ## 🌟 About Me
 
-- 🎓 Graduate in **BSc (Hons) Computer Science (Software Engineering) at Kingston University, London, UK - First Class**
-- 🎓 Undergraduate in **BSc (Hons) Information Technology & Software Engineering at SLIIT University, Malabe, LK - 3rd Year**
-- 💻 Passionate about **Software Development, Full-Stack Development, Mobile Apps & Web Development, Web Design, UI/UX Design,  Cloud Systems, Freelancing, AI Services, Digital Creator & SEO Services**
-- 🚀 9+ Years Freelancing Experience
-- 🤖 Interested in **AI, DevOps, Cloud, Creator, UI/UX & Scalable Systems**
-- 🌱 Currently learning **Advanced AI, DevOps & Cloud Technologies**
-- 📫 Reach me at: **lochanabandara36@gmail.com**
+- 💻 Software Engineer, Full Stack & Web Developer with a First Class BSc (Hons) in Computer Science (Software Engineering) from Kingston University (UK) and hands on experience in web, mobile, app and desktop application development. Skilled in PHP with Laravel, MERN, SpringBoot, WordPress, Portfolio, React.js, Next.js, Dart with Flutter, Nest.js, Express.js, Node.js, Firebase, Supabase, MySQL, SQLlite, Xampp, SQL Server and MongoDB. Experienced in building RESTful APIs, deploying cloud based solutions (AWS, Azure, GCP, Vercel) and applying Agile/Scrum methodologies.
+
+- Proven ability to design scalable, secure and user friendly software systems through freelance and academic projects. Finally I hope to improve my knowledge and develop my software engineering skills and professionalism. Thank You..!
+
+<h6> ☁️ Skilled in Cloud & Database Technologies </h6>
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+</p>
+
+<h6> 🚀 Experienced in </h6>
+<p align="center">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MERN-3C873A?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB"/> 
+<img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/> 
+</p>
+
+<h6>- 🎓 Graduate in BSc (Hons) Computer Science (Software Engineering) at Kingston University, London, UK - First Class..</h6>
+<h6>- 🎓 Undergraduate in BSc (Hons) Information Technology & Software Engineering at SLIIT University, Malabe, LK - 3rd Year..</h6>
+<h6>- 🚀 9+ Years Freelancing Experience..</h6>
+<h6>- 🤖 Interested in AI, DevOps, Cloud, Creator, UI/UX & Scalable Systems..</h6>
+<h6>- 🌱 Currently learning Advanced AI, DevOps & Cloud Technologies..</h6>
+<h6>- ⚡ Passionate about Building Scalable, Secure & User Friendly Software Systems..</h6>
+<h6>- 🎯 Always Learning New Technologies and Improving My Professional Software Engineering Skills..</h6>
+<h6>- 📫 Reach me at: lochanabandara36@gmail.com</h6>
+<h6>- 💻 Passionate about Software Development, Full-Stack Development, Mobile Apps & Web Development, Web Design, UI/UX Design,  Cloud Systems, Freelancing, AI Services, Digital Creator & SEO Services..</h6>
 
 ---
 
@@ -27,10 +63,12 @@
 <p align="center">
 <a href="https://github.com/it22318466"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
 <a href="https://www.linkedin.com/in/lochana-kavinda-a08260288"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+<a href="https://www.facebook.com/share/1VjfTB2KeV/"><img src="https://skillicons.dev/icons?i=facebook" height="50"/></a>
 <a href="https://www.instagram.com/lochaa_kavi?igsh=ejlrcGpvdG5vMnk=&utm_source=ig_contact_invite"><img src="https://skillicons.dev/icons?i=instagram" height="50"/></a>
-<!-- <a href="https://www.threads.com/@lochaa_kavi?invite=0"><img src="https://skillicons.dev/icons?i=threads" height="50"/></a>
-<a href="https://profile.indeed.com/"><img src="https://skillicons.dev/icons?i=indeed" height="50"/></a> -->
+<a href="https://www.threads.com/@lochaa_kavi?invite=0"><img src="https://skillicons.dev/icons?i=threads" height="50"/></a>
 <a href="https://www.tiktok.com/@lochaa761?_r=1&_t=ZS-95MX1cCk4Vp "><img src="https://skillicons.dev/icons?i=tiktok" height="50"/></a>
+<a href="https://profile.indeed.com/"><img src="https://skillicons.dev/icons?i=indeed" height="50"/></a>
+<a href="https://www.fiverr.com/pe/34gwVr"><img src="https://skillicons.dev/icons?i=facebook" height="50"/></a>
 <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" height="50"/></a>
 </p>
 
@@ -141,14 +179,4 @@
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=it22318466&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
-
-<h3 align="center">
-⭐ "Code. Create. Innovate. Repeat." ⭐
-</h3>
+<h6 align="center">✨ [Code + Create + Innovate + Repeat] +@``%+ Thank You for Visiting My Profile..! ✨</h6>
