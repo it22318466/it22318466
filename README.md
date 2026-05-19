@@ -57,7 +57,7 @@
 <h6>- 🎓 Undergraduate in BSc (Hons) Information Technology & Software Engineering at SLIIT University, Malabe, LK - 3rd Year..</h6>
 <h6>- 🎓 Study in DevOps Master Program (DSMP) at DSMP, LK - Developers Stack..</h6>
 <h6>- 🚀 9+ Years Freelancing Experience..</h6>
-<h6> - 📫 Reach me at: lochanabandara36@gmail.com </h6> 
+<h6>- 📫 Reach me at lochanabandara36@gmail.com.. </h6> 
 <h6>- 🤖 Interested in AI, DevOps, Cloud, Creator, UI/UX & Scalable Systems..</h6>
 <h6>- 🌱 Currently learning Advanced AI, DevOps & Cloud Technologies..</h6>
 <h6>- ⚡ Passionate about Building Scalable, Secure & User Friendly Software Systems..</h6>
