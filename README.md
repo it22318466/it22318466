@@ -29,6 +29,24 @@
 
 ---
 
+<!-- ![image alt](https://github.com/it22318466/it22318466/blob/abcdb3935f16b6948bb4a9aa14ff3e070ac7dab7/Skills%20Picture.png) -->
+<!-- <img src="https://raw.githubusercontent.com/it22318466/it22318466/abcdb3935f16b6948bb4a9aa14ff3e070ac7dab7/Skills%20Picture.png" width="90%" alt="Skills Picture"> -->
+
+<!-- <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/it22318466/it22318466/abcdb3935f16b6948bb4a9aa14ff3e070ac7dab7/Skills%20Picture.png"
+    width="600"
+    alt="Skills Picture"
+  />
+</p> -->
+
+<!-- If the image is in the same repo -->
+<p align="center">
+  <img src="./Skills%20Picture.png" width="960" alt="Skills Picture" />
+</p>
+
+---
+
 🌟 About Me
 
 <div>
@@ -66,22 +84,6 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-</p>
-
-<!-- ![image alt](https://github.com/it22318466/it22318466/blob/abcdb3935f16b6948bb4a9aa14ff3e070ac7dab7/Skills%20Picture.png) -->
-<!-- <img src="https://raw.githubusercontent.com/it22318466/it22318466/abcdb3935f16b6948bb4a9aa14ff3e070ac7dab7/Skills%20Picture.png" width="90%" alt="Skills Picture"> -->
-
-<!-- <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/it22318466/it22318466/abcdb3935f16b6948bb4a9aa14ff3e070ac7dab7/Skills%20Picture.png"
-    width="600"
-    alt="Skills Picture"
-  />
-</p> -->
----
-<!-- If the image is in the same repo -->
-<p align="center">
-  <img src="./Skills%20Picture.png" width="960" alt="Skills Picture" />
 </p>
 
 ---
