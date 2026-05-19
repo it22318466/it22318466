@@ -10,14 +10,6 @@
 
 ---
 
-<h6> 👀 Profile Views </h6>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=it22318466&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -43,6 +35,14 @@
 <!-- If the image is in the same repo -->
 <p align="center">
   <img src="./Skills%20Picture.png" width="960" alt="Skills Picture" />
+</p>
+
+---
+
+<h6> 👀 Profile Views </h6>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=it22318466&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
