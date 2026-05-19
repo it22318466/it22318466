@@ -27,11 +27,36 @@
   </picture>
 </div>
 
+---
+
 🌟 About Me
 
 <div>
 <sub><b> Software Engineer, Full Stack & Web Developer </b> with a <b> First Class BSc (Hons) in Computer Science (Software Engineering) </b> from <b> Kingston University (UK) </b> and hands on experience in <b> Web, Mobile, App & Desktop </b> application development. Skilled in <b> PHP with Laravel, MERN, SpringBoot, WordPress, Portfolio, React.js, Next.js, Dart with Flutter, Nest.js, Express.js, Node.js, Firebase, Supabase, MySQL, SQLlite, Xampp, SQL Server and MongoDB. </b> Experienced in building <b> RESTful APIs, </b> deploying cloud based solutions <b> (AWS, Azure, GCP, Vercel) </b> and applying <b> Agile/Scrum </b> methodologies. Proven ability to design scalable, secure and user friendly software systems through freelance and academic projects. <b> Finally I hope to improve my knowledge and develop my software engineering skills and professionalism. </b>   Thank You..!</sub>
 </div>
+ 
+<h6>- 🎓 Graduate in BSc (Hons) Computer Science (Software Engineering) at Kingston University, London, UK - First Class..</h6>
+<h6>- 🎓 Undergraduate in BSc (Hons) Information Technology & Software Engineering at SLIIT University, Malabe, LK - 3rd Year..</h6>
+<h6>- 🎓 Study in DevOps Master Program (DSMP) at DSMP, LK - Developers Stack..</h6>
+<h6>- 🚀 9+ Years Freelancing Experience..</h6>
+<h6>- 🤖 Interested in AI, DevOps, Cloud, Creator, UI/UX & Scalable Systems..</h6>
+<h6>- 🌱 Currently learning Advanced AI, DevOps & Cloud Technologies..</h6>
+<h6>- ⚡ Passionate about Building Scalable, Secure & User Friendly Software Systems..</h6>
+<h6>- 🎯 Always Learning New Technologies and Improving My Professional Software Engineering Skills..</h6>
+<h6>- 📫 Reach me at: lochanabandara36@gmail.com</h6>
+<h6>- 💻 Passionate about Software Development, Full-Stack Development, Mobile Apps & Web Development, Web Design, UI/UX Design,  Cloud Systems, Freelancing, AI Services, Digital Creator & SEO Services..</h6>
+
+<h6> 🚀 Experienced in </h6>
+<p align="center">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MERN-3C873A?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB"/> 
+<img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+</p>
 
 <h6> ☁️ Skilled in Cloud & Database Technologies </h6>
 <p align="center">
@@ -43,27 +68,21 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 </p>
 
-<h6> 🚀 Experienced in </h6>
-<p align="center">
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MERN-3C873A?style=flat&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> 
-<img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB"/> 
-<img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/> 
-</p>
+<!-- ![image alt](https://github.com/it22318466/it22318466/blob/abcdb3935f16b6948bb4a9aa14ff3e070ac7dab7/Skills%20Picture.png) -->
+<!-- <img src="https://raw.githubusercontent.com/it22318466/it22318466/abcdb3935f16b6948bb4a9aa14ff3e070ac7dab7/Skills%20Picture.png" width="90%" alt="Skills Picture"> -->
 
-<h6>- 🎓 Graduate in BSc (Hons) Computer Science (Software Engineering) at Kingston University, London, UK - First Class..</h6>
-<h6>- 🎓 Undergraduate in BSc (Hons) Information Technology & Software Engineering at SLIIT University, Malabe, LK - 3rd Year..</h6>
-<h6>- 🚀 9+ Years Freelancing Experience..</h6>
-<h6>- 🤖 Interested in AI, DevOps, Cloud, Creator, UI/UX & Scalable Systems..</h6>
-<h6>- 🌱 Currently learning Advanced AI, DevOps & Cloud Technologies..</h6>
-<h6>- ⚡ Passionate about Building Scalable, Secure & User Friendly Software Systems..</h6>
-<h6>- 🎯 Always Learning New Technologies and Improving My Professional Software Engineering Skills..</h6>
-<h6>- 📫 Reach me at: lochanabandara36@gmail.com</h6>
-<h6>- 💻 Passionate about Software Development, Full-Stack Development, Mobile Apps & Web Development, Web Design, UI/UX Design,  Cloud Systems, Freelancing, AI Services, Digital Creator & SEO Services..</h6>
+<!-- <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/it22318466/it22318466/abcdb3935f16b6948bb4a9aa14ff3e070ac7dab7/Skills%20Picture.png"
+    width="600"
+    alt="Skills Picture"
+  />
+</p> -->
+---
+<!-- If the image is in the same repo -->
+<p align="center">
+  <img src="./Skills%20Picture.png" width="960" alt="Skills Picture" />
+</p>
 
 ---
 
@@ -204,7 +223,8 @@
 <p align="center">
   <b>💻 Software Engineer · Full Stack Developer · Mobile & Web Developer </b><br/>
   <sub>🎓 First Class BSc (Hons) Computer Science (Software Engineering) - Kingston University · London · UK </sub><br/>
-  <sub>🎓 Undergraduate in BSc (Hons) Information Technology & Software Engineering at SLIIT University · Malabe · LK </sub>
+  <sub>🎓 Undergraduate in BSc (Hons) Information Technology & Software Engineering at SLIIT University · Malabe · LK </sub><br/>
+  <sub>🎓 DevOps Master Program DSMP (Studying) - DSMP · Developers Stack · LK </sub>
 </p>
 
 <p align="center">
