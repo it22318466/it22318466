@@ -124,12 +124,15 @@
 
 🗄️ Databases
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,oracle,firebase" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,firebase" />
+<!-- No oracle icon on skillicons.dev -->
+<!-- <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="35"/> -->
 </p>
 
 🎨 Design, Testing & Creative Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,selenium,sketch,postman" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender,selenium,postman" />
+<!-- <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black" height="35"/> -->
 </p>
 
 🛠️ Additional Tools & Platforms
