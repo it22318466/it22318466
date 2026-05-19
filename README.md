@@ -57,11 +57,11 @@
 <h6>- 🎓 Undergraduate in BSc (Hons) Information Technology & Software Engineering at SLIIT University, Malabe, LK - 3rd Year..</h6>
 <h6>- 🎓 Study in DevOps Master Program (DSMP) at DSMP, LK - Developers Stack..</h6>
 <h6>- 🚀 9+ Years Freelancing Experience..</h6>
+<h6> - 📫 Reach me at: lochanabandara36@gmail.com </h6> 
 <h6>- 🤖 Interested in AI, DevOps, Cloud, Creator, UI/UX & Scalable Systems..</h6>
 <h6>- 🌱 Currently learning Advanced AI, DevOps & Cloud Technologies..</h6>
 <h6>- ⚡ Passionate about Building Scalable, Secure & User Friendly Software Systems..</h6>
 <h6>- 🎯 Always Learning New Technologies and Improving My Professional Software Engineering Skills..</h6>
-<h6>- 📫 Reach me at: lochanabandara36@gmail.com</h6>
 <h6>- 💻 Passionate about Software Development, Full-Stack Development, Mobile Apps & Web Development, Web Design, UI/UX Design,  Cloud Systems, Freelancing, AI Services, Digital Creator & SEO Services..</h6>
 
 <h6> 🚀 Experienced in </h6>
@@ -85,6 +85,18 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 </p>
+
+<h6> 📬 Get In Touch </h6>
+
+<div align="center">
+<a href="mailto:lochanabandara36@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-lochanabandara36%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</div>
+
+<div align="center">
+<sub> -> 💬 *Feel free to reach out - I'm always open to discussing new projects, opportunities or collaborations !* </sub>
+</div>
 
 ---
 
@@ -137,8 +149,16 @@
 
 📱 Mobile Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,dart,kotlin,ionic,android" />
+<img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,dart,kotlin" />
 </p>
+
+<!-- <p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,dart,kotlin" />
+  <br/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" height="35"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white" height="35"/>
+</p> -->
 
 ☁️ Cloud & DevOps / OS
 <p align="center">
