@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Engineering;Software+Development;Full-Stack+Development;Cloud+Computing;Spring+Boot+%7C+Flutter+%7C+MERN+Stack+%7C+Laravel;WordPress+&+Portfolio+Developer;AI+Enthusiast+%7C+Cloud+Learner+%7C+Freelancer;Building+Creative+and+Real-World+Software+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Engineering;Software+Development;Full-Stack+Development;Cloud+Computing;Spring+Boot+%7C+Flutter+%7C+MERN+Stack+%7C+Laravel;WordPress+and+Portfolio+Developer;AI+Enthusiast+%7C+Cloud+Learner+%7C+Freelancer;Building+Creative+and+Real-World+Software+Solutions" />
 </p>
 
 ---
@@ -33,8 +33,8 @@
 
 <h6> ☁️ Skilled in Cloud & Database Technologies </h6>
 <p align="center">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
