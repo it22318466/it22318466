@@ -209,7 +209,7 @@
 
 ---
 
-## 🔥 My GitHub Stats & Analytics
+## 🔥 GitHub Stats & Analytics
 <!-- <div align="center">
 <img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10"/>
 </div>  -->
