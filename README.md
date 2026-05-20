@@ -210,9 +210,13 @@
 ---
 
 ## 🔥 My GitHub Stats & Analytics
-<div align="center">
+<!-- <div align="center">
 <img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10"/>
-</div>
+</div>  -->
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10&background=161B22&currStreakLabel=00C647&sideLabels=00C647&currStreakNum=00C647&sideNums=00C647"/>
+</div> 
 
 ---
 
