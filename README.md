@@ -10,17 +10,6 @@
 
 ---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/it22318466/it22318466/snake-output/snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/it22318466/it22318466/snake-output/snake.svg"
-      alt="snake" width="100%"/>
-  </picture>
-</div>
-
----
-
 <!-- ![image alt](https://github.com/it22318466/it22318466/blob/abcdb3935f16b6948bb4a9aa14ff3e070ac7dab7/Skills%20Picture.png) -->
 <!-- <img src="https://raw.githubusercontent.com/it22318466/it22318466/abcdb3935f16b6948bb4a9aa14ff3e070ac7dab7/Skills%20Picture.png" width="90%" alt="Skills Picture"> -->
 
@@ -36,6 +25,17 @@
 <p align="center">
   <img src="./Skills%20Picture.png" width="960" alt="Skills Picture" />
 </p>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/it22318466/it22318466/snake-output/snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/it22318466/it22318466/snake-output/snake.svg"
+      alt="snake" width="100%"/>
+  </picture>
+</div>
 
 ---
 
@@ -100,9 +100,19 @@
 <sub> -> 💬 *Feel free to reach out - I'm always open to discussing new projects, opportunities or collaborations !* </sub>
 </div>
 
----
+<br/>
 
-## 🌐 Connect With Me
+## ⬇️ DOWNLOAD Resume
+
+<p align="center">
+  <a href="https://github.com/it22318466/resume/blob/main/Lochana%20Kavinda%20Dev_SE_CV.pdf">
+    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_CV-0D1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=red&logoWidth=25" height="70"/>
+  </a>
+</p>
+
+<br/>
+
+## 🌐 CONNECT WITH ME
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lochana-kavinda-a08260288"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>&nbsp;
@@ -115,7 +125,7 @@
   <!-- Facebook (shields.io - always works on GitHub) -->
   <a href="https://www.facebook.com/share/1VjfTB2KeV/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35"/>
-  </a>
+  </a>&nbsp;
   <a href="https://www.threads.com/@lochaa_kavi">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" height="35"/>
   </a>&nbsp;
@@ -132,7 +142,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 TECH Stack
 
 👨‍💻 Programming Languages
 <p align="center">
