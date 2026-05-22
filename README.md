@@ -96,11 +96,11 @@
 </a>
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=lochanabandara36@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-lochanabandara36%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
+</div> -->
 
 <div align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=lochanabandara36@gmail.com" target="_blank">
