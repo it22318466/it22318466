@@ -103,6 +103,12 @@
 </div>
 
 <div align="center">
+  <a href="https://mail.google.com/mail/?view=cm&to=lochanabandara36@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-lochanabandara36%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
+  </a>
+</div>
+
+<div align="center">
 <sub> -> 💬 *Feel free to reach out - I'm always open to discussing new projects, opportunities or collaborations !* </sub>
 </div>
 
