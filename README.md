@@ -90,10 +90,16 @@
 
 <h6> 📬 Get In Touch </h6>
 
-<div align="center">
+<!-- <div align="center">
 <a href="mailto:lochanabandara36@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-lochanabandara36%gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-lochanabandara36%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</div> -->
+
+<div align="center">
+  <a href="mailto:lochanabandara36@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-lochanabandara36%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 <div align="center">
