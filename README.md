@@ -262,7 +262,7 @@
 </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10&background=161B22&ring=00C647&fire=DC2626&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=DC2626&sideNums=FFFFFF"/>
+  <img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10&background=161B22&ring=00C647&fire=DC2626&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=DC2626&sideNums=00C647"/>
 </div>
 <br/>
 
