@@ -236,13 +236,17 @@
 <img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10"/>
 </div>  -->
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10&background=161B22&currStreakLabel=40C463&sideLabels=40C463&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-</div> 
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=sanjay-kv&theme=github-dark&hide_border=true" alt="Streak Stats" />
-</p>
+</p> -->
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10&background=161B22&ring=40C463&fire=DC2626&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=59B943&sideNums=59B943"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10&background=161B22&ring=40C463&fire=DC2626&currStreakLabel=59B943&sideLabels=59B943&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+</div> 
 
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <br>
