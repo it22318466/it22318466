@@ -232,21 +232,22 @@
 ---
 
 ## 🔥 GitHub Stats & Analytics
+
 <!-- <div align="center">
 <img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10"/>
 </div>  -->
 
 <!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanjay-kv&theme=github-dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=sanjay-kv&theme=github-dark&hide_border=true" alt="Streak Stats"/>
 </p> -->
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10&background=161B22&ring=40C463&fire=DC2626&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=59B943&sideNums=59B943"/>
-</div>
+<!-- <div align="center">
+  <img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10&background=161B22&ring=40C463&fire=DC2626&currStreakLabel=59B943&sideLabels=59B943&currStreakNum=DC2626&sideNums=FFFFFF"/>
+</div> -->
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10&background=161B22&ring=40C463&fire=DC2626&currStreakLabel=59B943&sideLabels=59B943&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-</div> 
+  <img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10&background=161B22&ring=40C463&fire=DC2626&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=DC2626&sideNums=59B943"/>
+</div>
 
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <br>
