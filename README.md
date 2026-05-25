@@ -258,6 +258,13 @@
   <img style="width: 88%;" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
 </p> -->
 
+<p align="center">
+  <img width="38%" src="https://raw.githubusercontent.com/it22318466/it22318466/master/profile-summary-card-output/github_dark/3-stats.svg"/>
+</p>
+<p align="center">
+  <img width="88%" src="https://raw.githubusercontent.com/it22318466/it22318466/master/profile-summary-card-output/github_dark/0-profile-details.svg"/>
+</p>
+
 ---
 
 ## 📛 Badges
