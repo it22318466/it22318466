@@ -245,11 +245,6 @@
   <img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10&background=161B22&ring=40C463&fire=DC2626&currStreakLabel=59B943&sideLabels=59B943&currStreakNum=DC2626&sideNums=FFFFFF"/>
 </div> -->
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10&background=161B22&ring=00C647&fire=DC2626&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=DC2626&sideNums=00C647"/>
-</div>
-<br/>
-
 <!-- <summary><b>⚙️ GitHub Analytics</b></summary> -->
 <!-- <p align="center">
   <img style="width: 38%;" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
@@ -259,11 +254,17 @@
 </p> -->
 
 <p align="center">
-  <img width="38%" src="https://raw.githubusercontent.com/it22318466/it22318466/master/profile-summary-card-output/github_dark/3-stats.svg"/>
-</p>
-<p align="center">
   <img width="88%" src="https://raw.githubusercontent.com/it22318466/it22318466/master/profile-summary-card-output/github_dark/0-profile-details.svg"/>
 </p>
+
+<p align="center">
+  <img width="38%" src="https://raw.githubusercontent.com/it22318466/it22318466/master/profile-summary-card-output/github_dark/3-stats.svg"/>
+</p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10&background=161B22&ring=00C647&fire=DC2626&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=DC2626&sideNums=00C647"/>
+</div>
+<br/>
 
 ---
 
