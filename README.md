@@ -237,8 +237,21 @@
 </div>  -->
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10&background=161B22&currStreakLabel=00C647&sideLabels=00C647&currStreakNum=00C647&sideNums=00C647"/>
+  <img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10&background=161B22&currStreakLabel=40C463&sideLabels=40C463&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 </div> 
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanjay-kv&theme=github-dark&hide_border=true" alt="Streak Stats" />
+</p>
+
+<summary><b>⚙️ GitHub Analytics</b></summary>
+<br>
+  <p align="center">
+    <img style="width: 88%;" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+  </p>
+  <p align="center">
+    <img style="width: 38%;" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+  </p>
 
 ---
 
