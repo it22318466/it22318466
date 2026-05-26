@@ -278,8 +278,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=it22318466&theme=algolia&row=1&column=7"/>
 </p> -->
 
+<!-- Mirror 2 -->
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=it22318466&theme=algolia&row=1&column=7"/>
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=it22318466&theme=algolia&row=1&column=9"/>
 </p>
 
 ---
