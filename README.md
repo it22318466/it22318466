@@ -112,8 +112,6 @@
 <sub> -> 💬 *Feel free to reach out - I'm always open to discussing new projects, opportunities or collaborations !* </sub>
 </div>
 
-<br/>
-
 ## ⬇️ DOWNLOAD Resume
 
 <p align="center">
@@ -121,8 +119,6 @@
     <img src="https://img.shields.io/badge/⬇️%20Download%20My%20CV-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0D1117"/>
   </a>
 </p>
-
-<br/>
 
 ## 🌐 CONNECT WITH ME
 
