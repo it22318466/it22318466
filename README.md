@@ -60,7 +60,7 @@
 <h6>- 🎓 Graduate in Pearson Diploma in Information Technology (DITEC) at Pearson UK, London, UK - Grade : Merit.</h6>
 <h6>- 🎓 Graduate in Diploma in Information Technology at The Golden Key Institute of Information Technology Ltd, Colombo, LK - Grade : A.</h6>
 <h6>- 🎓 Study in DevOps Master Program (DSMP) at DSMP, LK - Developers Stack & DevOps Engineer.</h6>
-<h6>- 🎓 Study in Computer Programming Course (Program) at DP Education, LK - Coding Program.</h6>
+<h6>- 🎓 Study in Computer Programming Course (Coding Program) at DP Education, LK - Coding & Programmer.</h6>
 <h6>- 🚀 9+ Years Freelancing Experience.</h6>
 <h6>- 📫 Reach me at lochanabandara36@gmail.com.</h6> 
 <h6>- 🤖 Interested in AI, DevOps, Cloud, Creator, UI/UX & Scalable Systems.</h6>
