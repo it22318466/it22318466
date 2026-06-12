@@ -115,7 +115,7 @@
 ## ⬇️ DOWNLOAD Resume
 
 <p align="center">
-  <a href="https://github.com/it22318466/resume/blob/main/Lochana%20Kavinda%20Dev_SE_CV.pdf">
+  <a href="https://github.com/it22318466/resume/blob/main/Lochana%20Kavinda%20Dev_SE_DevOps_CV.pdf">
     <img src="https://img.shields.io/badge/⬇️%20Download%20My%20CV-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0D1117"/>
   </a>
 </p>
