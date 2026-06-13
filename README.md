@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lochana Kavinda</h1>
 
 <h3 align="center">
-🚀 Software Engineer | Software Developer | Full-Stack Developer | Mobile & Web Developer | Cloud Computing | UI/UX Designer | Digital Creator | Freelancer from Sri Lanka 🇱🇰
+🚀 Software Engineer | Software Developer | Full-Stack Developer | Mobile & Web Developer | DevOps Engineer | Cloud Computing | UI/UX Designer | Digital Creator & SEO | Freelancer from Sri Lanka 🇱🇰
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Engineering;Software+Development;Full-Stack+Development;Mobile+and+Web+Development;Cloud+Computing;Spring+Boot+%7C+Flutter+%7C+MERN+Stack+%7C+Laravel;WordPress+and+Portfolio+Developer;AI+Enthusiast+%7C+Cloud+Learner+%7C+Freelancer;Building+Creative+and+Real-World+Software+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Engineering;Software+Development;Full-Stack+Development;Mobile+and+Web+Development;DevOps+Development;Cloud+Computing;Spring+Boot+%7C+Flutter+%7C+MERN+Stack+%7C+Laravel;WordPress+and+Portfolio+Developer;AI+Enthusiast+%7C+Cloud+Learner+%7C+Freelancer;Building+Creative+and+Real-World+Software+Solutions" />
 </p>
 
 ---
