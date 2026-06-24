@@ -39,10 +39,11 @@
 
 ---
 
-<h6> 👀 Profile Views </h6>
+<h6> 👀 PROFILE VIEWS & VISITORS </h6>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=it22318466&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Visitors-∞-brightgreen?style=for-the-badge&logo=github" alt="Visitors" />
 </p>
 
 ---
