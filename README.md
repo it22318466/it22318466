@@ -305,12 +305,12 @@
 
 <!-- Mirror 2 -->
 <!-- <p align="center">
-<img src="https://github-profile-trophy-fork-two.vercel.app/?username=it22318466&theme=algolia&row=1&column=9"/>
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=it22318466&theme=algolia&row=1&column=7"/>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=it22318466&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=9"/>
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://github-trophies.vercel.app/?username=it22318466&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
