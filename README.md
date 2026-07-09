@@ -261,8 +261,12 @@
   <img width="38%" src="https://raw.githubusercontent.com/it22318466/it22318466/master/profile-summary-card-output/github_dark/3-stats.svg"/>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10&background=161B22&ring=00C647&fire=DC2626&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=DC2626&sideNums=00C647"/>
+</div> -->
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10&background=161B22&ring=00C647&fire=DC2626&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=DC2626&sideNums=00C647"/>
 </div>
 <br/>
 
