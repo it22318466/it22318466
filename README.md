@@ -269,6 +269,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10&background=161B22&ring=00C647&fire=DC2626&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=DC2626&sideNums=00C647"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10&background=161B22&ring=00C647&fire=DC2626&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=DC2626&sideNums=00C647"/>
+</div>
+
 <!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=sanjay-kv&theme=github-dark&hide_border=true" alt="Streak Stats" />
 </p> -->
