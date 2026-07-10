@@ -269,11 +269,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=it22318466&theme=tokyo-night&hide_border=true&border_radius=10&background=161B22&ring=00C647&fire=DC2626&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=DC2626&sideNums=00C647"/>
 </div>
 
-## 🏅 GitHub Trophies
-<p align="center">
-  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=it22318466&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
-</p>
-
 <!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=sanjay-kv&theme=github-dark&hide_border=true" alt="Streak Stats" />
 </p> -->
