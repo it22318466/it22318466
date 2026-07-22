@@ -52,7 +52,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
 <div>
-<sub><b> Software Engineer, Full Stack & Web Developer </b> with a <b> First Class BSc (Hons) in Computer Science (Software Engineering) </b> from <b> Kingston University (UK) </b> and hands on experience in <b> Web, Mobile, App & Desktop </b> application development. Skilled in <b> SpringBoot, WordPress, Portfolio, MERN, Laravel with PHP, Flutter with Dart, React.js, Next.js, Nest.js, Express.js, Node.js, Vue.js, React Native, Java, Python, C, JS, SQL, Firebase, Supabase, NoSQL, PostgreSQL, MySQL, SQLlite, Xampp, Wamp, SQL Server and MongoDB. </b> Experienced in building <b> RESTful APIs, FAST APIs, </b> deploying cloud based solutions <b> (AWS, Azure, GCP, Vercel) </b> and applying <b> Agile/Scrum </b> methodologies. Proven ability to design scalable, secure and user friendly software systems through freelance and academic projects. <b> Finally I hope to improve my knowledge and develop my software engineering skills and professionalism. </b>   Thank You..!</sub>
+<sub><b> Software Engineer, Full Stack & Web Developer </b> with a <b> First Class BSc (Hons) in Computer Science (Software Engineering) </b> from <b> Kingston University (UK) </b> and hands on experience in <b> Web, Mobile, App & Desktop </b> application development. Skilled in <b> SpringBoot, WordPress, Portfolio, MERN, Laravel with PHP, Flutter with Dart, .NET, ASP.NET, .NET Core, ASP.NET Core, React, Vite, Vue.js, Next.js, Nest.js, React Native, Java, Python, C, C#, C++, F#, JS, TS, CSS, SQL, Firebase, Supabase, NoSQL, PostgreSQL, MySQL, SQLlite, Xampp, Wamp, SQL Server and MongoDB. </b> Experienced in building <b> RESTful APIs, FAST APIs, </b> deploying cloud based solutions <b> (AWS, Azure, GCP, Vercel) </b> and applying <b> Agile/Scrum </b> methodologies. Proven ability to design scalable, secure and user friendly software systems through freelance and academic projects. <b> Finally I hope to improve my knowledge and develop my software engineering skills and professionalism. </b>   Thank You..!</sub>
 </div>
  
 <h6>- 🎓 Graduate in BSc (Hons) Computer Science (Software Engineering) at Kingston University, London, UK - First Class.</h6>
@@ -350,7 +350,7 @@
 <p align="center">
 <sub>Experienced in building scalable, secure & user-friendly software systems across Web, Mobile App & Desktop platforms. </sub> <br/><br/>
 <b>🛠️ Tech Stack</b><br/>
-<sub> PHP · Laravel · MERN · Spring Boot · WordPress · React.js · Next.js · Nest.js · Node.js · Express.js<br/>
+<sub> PHP · Laravel · MERN · Spring Boot · WordPress · React · .NET · Next.js · Nest.js · Vue.js · Vite · Java<br/>
 Flutter (Dart) · Firebase · Supabase · MySQL · SQLite · SQL Server · MongoDB · XAMPP </sub> <br/><br/>
 <b>☁️ Cloud & Methods</b><br/>
 <sub> AWS · Azure · GCP · Vercel · RESTful APIs · Agile · Scrum<br/> </sub> <br/>
