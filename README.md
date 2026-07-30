@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lochana Kavinda</h1>
 
 <h3 align="center">
-🚀 Software Engineer | Software Developer | Full-Stack Developer | Mobile & Web Developer | DevOps Engineer | Cloud Computing | UI/UX Designer | Digital Creator & SEO | Freelancer from Sri Lanka 🇱🇰
+🚀 Software Engineer & Developer | Full-Stack Developer | Mobile & Web Developer | DevOps Engineer | Cloud Computing | UI/UX Designer | Digital Creator & SEO | Freelancer from Sri Lanka 🇱🇰
 </h3>
 
 <p align="center">
